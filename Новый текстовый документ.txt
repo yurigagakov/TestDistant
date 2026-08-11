@@ -1,3 +1,4 @@
 stroke1
 stroke2
 new stroke
+new stroke2
